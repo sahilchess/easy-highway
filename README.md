@@ -1,4 +1,4 @@
-# solder
+# easy-highway
 
 I am fairly new to designing pcbs and i am proud of this s/r latch. I looked at a tutorial and with that knowledge, challenged myself to make it without looking at anything. And I did it! 
 
